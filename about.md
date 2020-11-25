@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-Some information about you!
+*团结的人民永远不被击溃！*
 
-### More Information
+**联系我们**
 
-A place to include any other types of information that you'd like to include about yourself.
+[邮箱地址](mailto:youthmarxism@163.com)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
